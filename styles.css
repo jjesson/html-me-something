@@ -1,13 +1,18 @@
 main{
     margin-bottom: 50px;
+    background-color: rgba(255, 245, 238, 0.473);
 }
 body{
-    background-color: darkblue;
+    background-image: url(https://golf.com/wp-content/uploads/2020/05/featuredimage2-1024x576.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 h1 {
     text-align:center;
     font-size: 72px;
-    color: rgb(192, 196, 0);
+    color: rgb(230, 165, 26);
+    background-color: rgba(255, 255, 255, 0.651);
     
    }
 h2 {
@@ -17,13 +22,17 @@ h2 {
 }
 h3 {
     color: goldenrod;
+    padding: 10px;
 }
 p {
     margin: 0px 350px 0px 100px;
-    color: white;
+    color: black;
+    font-size: 20px;
+    
 }
 .secondary{
     margin-left: 50px;
+    margin-top: 10px;
 }
 #tertiary{
     background-color: rgba(255, 255, 255, 0.3);
